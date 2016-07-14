@@ -1,0 +1,12 @@
+name: Medic
+version: 1.0
+main: me.catdogfatness.medic.Medic
+description: feed and health plugin
+
+commands: 
+     feed:
+         usage: /<command>
+         description: refills hunger
+      heal:
+         usage: /<command>
+         description: refills health
